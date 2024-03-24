@@ -1,0 +1,137 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WAKE_LOCK" />
+11-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:4:5-68
+11-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:4:22-65
+12    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+12-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:5:5-76
+12-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:5:22-73
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:6:5-79
+13-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:7:5-76
+14-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:7:22-73
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:8:5-81
+15-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:8:22-78
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:9:5-79
+16-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:9:22-76
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:50:5-67
+17-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:50:22-64
+18
+19    <application
+19-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:12:5-48:19
+20        android:allowBackup="true"
+20-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:13:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.7.0] C:\Users\Admin\.gradle\caches\transforms-3\b35741dfc968bd265ceb718582098784\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@drawable/ic_launcher_foreground"
+23-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:14:9-56
+24        android:label="@string/app_name"
+24-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:15:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:16:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:17:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.Design.NoActionBar" >
+28-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:18:9-56
+29        <service android:name="org.eclipse.paho.android.service.MqttService" >
+29-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:19:9-20:19
+29-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:19:18-77
+30        </service>
+31
+32        <activity
+32-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:21:9-29:20
+33            android:name="com.example.myapplication.DeviceActivity"
+33-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:22:13-43
+34            android:exported="true"
+34-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:24:13-36
+35            android:label="@string/title_activity_device"
+35-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:23:13-58
+36            android:screenOrientation="landscape"
+36-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:25:13-50
+37            android:theme="@style/Theme.Design.NoActionBar" >
+37-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:26:13-62
+38        </activity>
+39        <!-- android:usesCleartextTraffic="true"> -->
+40        <activity
+40-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:31:9-37:65
+41            android:name="com.example.myapplication.PlayerActivity"
+41-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:32:13-43
+42            android:exported="false"
+42-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:33:13-37
+43            android:resizeableActivity="true"
+43-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:34:13-46
+44            android:screenOrientation="landscape"
+44-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:35:13-50
+45            android:supportsPictureInPicture="true"
+45-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:36:13-52
+46            android:theme="@style/Theme.AppCompat.Fullscreen" />
+46-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:37:13-62
+47        <activity
+47-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:38:9-47:20
+48            android:name="com.example.myapplication.MainActivity"
+48-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:39:13-41
+49            android:exported="true"
+49-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:40:13-36
+50            android:screenOrientation="landscape" >
+50-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:41:13-50
+51            <intent-filter>
+51-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:42:13-46:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:43:17-69
+52-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:43:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:45:17-77
+54-->C:\Users\Admin\OneDrive\Desktop\movie_android_aPP\app\src\main\AndroidManifest.xml:45:27-74
+55            </intent-filter>
+56        </activity>
+57
+58        <provider
+58-->[com.squareup.picasso:picasso:2.71828] C:\Users\Admin\.gradle\caches\transforms-3\2fbbb708425bedc89d509626a2b78d28\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+59            android:name="com.squareup.picasso.PicassoProvider"
+59-->[com.squareup.picasso:picasso:2.71828] C:\Users\Admin\.gradle\caches\transforms-3\2fbbb708425bedc89d509626a2b78d28\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+60            android:authorities="com.example.myapplication.com.squareup.picasso"
+60-->[com.squareup.picasso:picasso:2.71828] C:\Users\Admin\.gradle\caches\transforms-3\2fbbb708425bedc89d509626a2b78d28\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+61            android:exported="false" />
+61-->[com.squareup.picasso:picasso:2.71828] C:\Users\Admin\.gradle\caches\transforms-3\2fbbb708425bedc89d509626a2b78d28\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+62        <provider
+62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\f3676babdfded2dbbb845908b2a44365\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\f3676babdfded2dbbb845908b2a44365\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+64            android:authorities="com.example.myapplication.androidx-startup"
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\f3676babdfded2dbbb845908b2a44365\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+65            android:exported="false" >
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\f3676babdfded2dbbb845908b2a44365\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+66            <meta-data
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\f3676babdfded2dbbb845908b2a44365\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\f3676babdfded2dbbb845908b2a44365\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+68                android:value="androidx.startup" />
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\f3676babdfded2dbbb845908b2a44365\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+69            <meta-data
+69-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Admin\.gradle\caches\transforms-3\13039737dcec93e2a10bc530c6d60002\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Admin\.gradle\caches\transforms-3\13039737dcec93e2a10bc530c6d60002\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+71                android:value="androidx.startup" />
+71-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Admin\.gradle\caches\transforms-3\13039737dcec93e2a10bc530c6d60002\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+72        </provider>
+73    </application>
+74
+75</manifest>

@@ -1,0 +1,4 @@
+#Sun Mar 24 12:36:51 GMT+07:00 2024
+base.0=C\:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
