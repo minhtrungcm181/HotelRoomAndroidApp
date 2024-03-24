@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_movie_card.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\layout\\movie_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sunny.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\ic_sunny.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_local_movies_24.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\ic_baseline_local_movies_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_selected.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\bg_btn_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_pressed.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_focused.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable-v24\\button_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_default.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable-v24\\button_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_item.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\layout\\news_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_moon.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\ic_moon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_activity.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\layout\\device_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_swt_thumb.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\swt_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_slideritem.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\layout\\slideritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_lightbulb_circle_24.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\ic_baseline_lightbulb_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_unselected.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\bg_btn_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_swt_track.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable\\swt_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background.jpg.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\drawable-xxhdpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\movie_android_aPP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
