@@ -19,7 +19,6 @@ public class MQTTHelper {
     public MqttAndroidClient mqttAndroidClient;
     public static Boolean CONNECTED = false;
 
-
     UUID uuid = UUID.randomUUID();
     String clientId = uuid.toString();
     final String serverUri = "tcp://192.168.1.28:1883";
