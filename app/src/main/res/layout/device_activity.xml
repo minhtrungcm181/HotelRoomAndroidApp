@@ -147,48 +147,47 @@
                 app:layout_constraintStart_toStartOf="parent" />
 
         </LinearLayout>
+
         <RelativeLayout
             android:id="@+id/textDeviceLayout"
             android:layout_width="900dp"
             android:layout_height="wrap_content"
-            app:layout_constraintStart_toStartOf="@+id/deviceLayout"
-            app:layout_constraintTop_toBottomOf="@id/deviceLayout"
-            app:layout_constraintEnd_toEndOf="@id/deviceLayout"
             android:background="@drawable/gradient_bg"
-            >
+            app:layout_constraintEnd_toEndOf="@id/deviceLayout"
+            app:layout_constraintStart_toStartOf="@+id/deviceLayout"
+            app:layout_constraintTop_toBottomOf="@id/deviceLayout">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="75dp"
-                android:text="Light1"
-                android:textSize="16sp"
                 android:fontFamily="serif"
-                />
+                android:text="Light1"
+                android:textSize="16sp" />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="310dp"
-                android:text="Light2"
-                android:textSize="16sp"
                 android:fontFamily="serif"
-                />
+                android:text="Light2"
+                android:textSize="16sp" />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="550dp"
-                android:text="Light3"
-                android:textSize="16sp"
                 android:fontFamily="serif"
-                />
+                android:text="Light3"
+                android:textSize="16sp" />
+
             <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="785dp"
-            android:text="Light4"
-            android:textSize="16sp"
-            android:fontFamily="serif"
-            />
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="785dp"
+                android:fontFamily="serif"
+                android:text="Light4"
+                android:textSize="16sp" />
         </RelativeLayout>
 
         <TextView
@@ -196,7 +195,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
-            android:layout_marginTop="24dp"
+            android:layout_marginTop="16dp"
             android:fontFamily="serif"
             android:paddingBottom="10dp"
             android:paddingLeft="50dp"
@@ -208,10 +207,32 @@
             tools:ignore="MissingConstraints"
             tools:layout_editor_absoluteX="38dp" />
 
+        <TextView
+            android:id="@+id/textNews"
+            android:layout_width="55dp"
+            android:layout_height="37dp"
+            android:layout_margin="16dp"
+
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="serif"
+
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="News"
+
+            android:textColor="@color/white"
+
+            android:textSize="16sp"
+            app:layout_constraintStart_toStartOf="@+id/newsLayout"
+            app:layout_constraintTop_toBottomOf="@+id/textDeviceLayout"
+            tools:ignore="MissingConstraints" />
+
         <RelativeLayout
             android:id="@+id/weatherLayout"
             android:layout_width="414dp"
-            android:layout_height="172dp"
+            android:layout_height="200dp"
             android:layout_marginTop="4dp"
             android:background="@drawable/gradient_bg"
             android:orientation="vertical"
@@ -224,16 +245,16 @@
 
             <TextView
                 android:id="@+id/cityName"
-                android:layout_width="169dp"
-                android:layout_height="wrap_content"
+                android:layout_width="158dp"
+                android:layout_height="48dp"
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentRight="true"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
-                android:layout_marginEnd="250dp"
+                android:layout_marginEnd="229dp"
                 android:layout_marginLeft="22dp"
-                android:layout_marginRight="250dp"
+                android:layout_marginRight="229dp"
                 android:layout_marginStart="22dp"
                 android:layout_marginTop="5dp"
                 android:fontFamily="serif"
@@ -242,43 +263,145 @@
                 android:text="City Name"
                 android:textAlignment="center"
                 android:textColor="@color/white"
-                android:textSize="16sp"
+                android:textSize="20sp"
                 tools:ignore="NotSibling" />
 
             <TextView
                 android:id="@+id/temperature"
-                android:layout_width="117dp"
-                android:layout_height="wrap_content"
+                android:layout_width="147dp"
+                android:layout_height="112dp"
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentRight="true"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
-                android:layout_marginEnd="270dp"
-                android:layout_marginLeft="43dp"
-                android:layout_marginRight="270dp"
-                android:layout_marginStart="43dp"
-                android:layout_marginTop="30dp"
+                android:layout_marginEnd="250dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="250dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginTop="36dp"
                 android:fontFamily="serif"
                 android:gravity="center"
                 android:padding="2dp"
                 android:text="23"
                 android:textAlignment="center"
                 android:textColor="@color/white"
-                android:textSize="40sp" />
+                android:textSize="35sp" />
+
+
+            <TextView
+                android:id="@+id/uv"
+                android:layout_width="170dp"
+                android:layout_height="44dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginEnd="47dp"
+                android:layout_marginLeft="224dp"
+                android:layout_marginRight="47dp"
+                android:layout_marginStart="224dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="serif"
+                android:gravity="center"
+                android:padding="2dp"
+                android:text="Wind:"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/humidity"
+                android:layout_width="170dp"
+                android:layout_height="44dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginEnd="47dp"
+                android:layout_marginLeft="224dp"
+                android:layout_marginRight="47dp"
+                android:layout_marginStart="224dp"
+                android:layout_marginTop="60dp"
+                android:fontFamily="serif"
+                android:gravity="center"
+                android:padding="2dp"
+                android:text="UV:"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/wind"
+                android:layout_width="130dp"
+                android:layout_height="41dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginEnd="55dp"
+                android:layout_marginLeft="234dp"
+                android:layout_marginRight="55dp"
+                android:layout_marginStart="234dp"
+                android:layout_marginTop="118dp"
+                android:fontFamily="serif"
+                android:gravity="center"
+                android:padding="2dp"
+                android:text="Humidity: "
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/condition_text"
+                android:layout_width="170dp"
+                android:layout_height="44dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginEnd="230dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="230dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="121dp"
+                android:fontFamily="serif"
+                android:gravity="center"
+                android:text="Condition"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
 
             <ImageView
                 android:id="@+id/weatherIcon"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="79dp"
+                android:layout_height="71dp"
                 android:layout_alignParentTop="true"
-                android:layout_marginLeft="170dp"
-                android:layout_marginTop="10dp"
-                app:srcCompat="@drawable/ic_moon" />
-
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="61dp" />
 
 
         </RelativeLayout>
+
+        <com.smarteist.autoimageslider.SliderView
+            android:id="@+id/newsLayout"
+            android:layout_width="414dp"
+            android:layout_height="200dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginEnd="56dp"
+            android:layout_marginRight="56dp"
+            android:layout_marginTop="62dp"
+            android:background="@drawable/gradient_bg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textDeviceLayout"
+            app:layout_constraintVertical_bias="0.0">
+
+        </com.smarteist.autoimageslider.SliderView>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
